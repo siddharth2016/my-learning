@@ -1,5 +1,13 @@
 # My Learning
 
+## Language Stats on GitHub
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark">
+  <img align="left" alt="Language Stats" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
+</a>
+
+<br />
+
 ## ToComplete
 
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
@@ -19,6 +27,7 @@
 - [ ] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
 - [ ] [World’s Greatest Books For Personal Growth & Wealth: Perfect Motivational Set](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
+- [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
 
 ## ToMake
 
