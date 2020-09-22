@@ -15,6 +15,7 @@
 - [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 - [ ] [SQl + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+- [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 
 ## ToRead
 
