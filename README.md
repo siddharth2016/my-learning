@@ -1,12 +1,11 @@
 # My Learning
 
-## Language Stats on GitHub
+## LanguageStats
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark">
-  <img align="left" alt="Language Stats" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
-</a>
+<img alt="Language Stats" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 
 <br />
+
 
 ## ToComplete
 
