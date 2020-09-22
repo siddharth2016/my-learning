@@ -4,9 +4,6 @@
 
 <img alt="Language Stats" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 
-<br />
-
-
 ## ToComplete
 
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
