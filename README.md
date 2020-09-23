@@ -16,6 +16,8 @@
 - [ ] [SQl + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
+- [ ] [Python Practice Problems](https://realpython.com/python-practice-problems/)
+- [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
 
 ## ToRead
 
