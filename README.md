@@ -34,4 +34,4 @@
 - [ ] (Something Related to Code Challenge)
 - [ ] (Something Related to Video)
 - [ ] (Something Related to Reading)
-- [ ] (Something Related to Open Source)
+- [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
