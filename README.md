@@ -2,7 +2,7 @@
 
 ## LanguageStats
 
-<img alt="Language Stats" height="640px" width="940px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
+<img alt="Language Stats" height="540px" width="640px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 
 ## ToComplete
 
