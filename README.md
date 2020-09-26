@@ -2,7 +2,7 @@
 
 ## LanguageStats
 
-<img alt="Language Stats" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
+<img alt="Language Stats" height="640px" width="940px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 
 ## ToComplete
 
@@ -27,7 +27,7 @@
 
 ## ToMake
 
-- [x] [PongPong App](https://github.com/Siddharth2016/PongPong)
+- [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [ ] (Anime Recommendation System)
 - [ ] (Something Related to Manga)
 - [ ] (Something Related to Start Learning)
