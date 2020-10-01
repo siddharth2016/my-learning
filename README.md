@@ -24,6 +24,8 @@
 - [ ] [World’s Greatest Books For Personal Growth & Wealth: Perfect Motivational Set](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
+- [ ] [Machine Learning Engineering](https://amzn.to/30p3PVr)
+- [ ] [The Hundred-Page Machine Learning Book](https://amzn.to/3n1o2ul)
 
 ## ToMake
 
