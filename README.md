@@ -19,7 +19,7 @@
 ## ToRead
 
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu (Book 1)](https://amzn.to/32MgALv)
-- [ ] [Satyayoddha Kalki: Eye of Brahma (Book 2)](https://amzn.to/2HiVBYn)
+- [x] [Satyayoddha Kalki: Eye of Brahma (Book 2)](https://amzn.to/2HiVBYn)
 - [ ] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
 - [ ] [World’s Greatest Books For Personal Growth & Wealth: Perfect Motivational Set](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
