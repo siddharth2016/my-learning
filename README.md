@@ -13,7 +13,7 @@
 - [ ] [SQl + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
-- [ ] [Python Practice Problems](https://realpython.com/python-practice-problems/)
+- [x] [Python Practice Problems](https://realpython.com/python-practice-problems/)
 - [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
 
 ## ToRead
@@ -36,4 +36,5 @@
 - [ ] (Something Related to Code Challenge)
 - [ ] (Something Related to Video)
 - [ ] (Something Related to Reading)
+- [ ] (Something Related to GitHub Action)
 - [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
