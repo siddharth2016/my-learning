@@ -32,7 +32,6 @@
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [ ] (Anime Recommendation System)
 - [ ] (Something Related to Manga)
-- [ ] (Something Related to Start Learning)
 - [ ] (Something Related to Code Challenge)
 - [ ] (Something Related to Video)
 - [ ] (Something Related to Reading)
