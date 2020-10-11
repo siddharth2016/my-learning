@@ -33,7 +33,7 @@
 - [ ] (Anime Recommendation System)
 - [ ] (Something Related to Manga)
 - [ ] (Something Related to Code Challenge)
-- [ ] (Something Related to Video)
 - [ ] (Something Related to Reading)
+- [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
 - [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
 - [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
