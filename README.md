@@ -4,6 +4,8 @@
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
 
+*It should not be taken as me having expertise in a particular programming language, it just shows the percentage of code done in given language !*
+
 ## ToComplete
 
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
