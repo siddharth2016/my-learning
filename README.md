@@ -28,6 +28,7 @@
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
 - [ ] [Machine Learning Engineering](https://amzn.to/30p3PVr)
 - [ ] [The Hundred-Page Machine Learning Book](https://amzn.to/3n1o2ul)
+- [ ] [Shiva Trilogy](https://amzn.to/2HFUdis)
 
 ## ToMake
 
