@@ -6,16 +6,7 @@
 
 *It should not be taken as me having expertise in a particular programming language, it just shows the percentage of code done in given language !*
 
-## ToComplete
-
-<details>
-  <summary>Done</summary>
-  
-  <a href="https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/">Scalable Web Applications with Python</a><br/>
-  <a href="https://www.youracclaim.com/badges/123869a6-fc14-4c9c-b4f6-3693c03aa3af/linked_in_profile">MTA: Introduction to Programming Using Python - Certified 2019</a><br/>
-  <a href="https://realpython.com/python-practice-problems/">Python Practice Problems</a>
-  
-</details>
+## ToPractice
 
 - [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 - [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
@@ -23,16 +14,10 @@
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 - [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
+- [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
+- [x] [Python Practice Problems](https://realpython.com/python-practice-problems/)
 
 ## ToRead
-
-<details>
-  <summary>Done</summary>
-  
-  <a href="https://amzn.to/32MgALv">Dharmayoddha Kalki: Avatar of Vishnu</a><br/>
-  <a href="https://amzn.to/2HiVBYn">Satyayoddha Kalki: Eye of Brahma</a><br/>
-  
-</details>
 
 - [ ] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
 - [ ] [World’s Greatest Books For Personal Growth & Wealth](https://amzn.to/2RI5eBP)
@@ -40,19 +25,19 @@
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
 - [ ] [Machine Learning Engineering](https://amzn.to/30p3PVr)
 - [ ] [The Hundred-Page Machine Learning Book](https://amzn.to/3n1o2ul)
-- [ ] [Shiva Trilogy](https://amzn.to/2HFUdis)
+- [ ] [The Immortals of Meluha](https://amzn.to/3kD8StE)
+- [ ] [The Secret Of The Nagas](https://amzn.to/3mq67fu)
+- [ ] [The Oath of the Vayuputras](https://amzn.to/37LHqGs)
+- [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
+- [x] [Satyayoddha Kalki: Eye of Brahma](https://amzn.to/2HiVBYn)
 
 ## ToMake
 
-<details>
-  <summary>Done</summary>
-</details>
-
-- [x] [PongPong](https://github.com/Siddharth2016/PongPong)
-- [ ] (Anime Recommendation System)
+- [ ] (Something Related to Anime)
 - [ ] (Something Related to Manga)
-- [ ] (Something Related to Code Challenge)
+- [ ] (Something Related to Challenge)
 - [ ] (Something Related to Reading)
+- [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
 - [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
 - [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
