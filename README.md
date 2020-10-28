@@ -8,17 +8,27 @@
 
 ## ToComplete
 
-- [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
-- [x] [MTA: Introduction to Programming Using Python - Certified 2019](https://www.youracclaim.com/badges/123869a6-fc14-4c9c-b4f6-3693c03aa3af/linked_in_profile)
+<details>
+  <summary>Done</summary>
+  
+  <a href="https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/">Scalable Web Applications with Python</a></br>
+  <a href="https://www.youracclaim.com/badges/123869a6-fc14-4c9c-b4f6-3693c03aa3af/linked_in_profile">MTA: Introduction to Programming Using Python - Certified 2019</a></br>
+  <a href="https://realpython.com/python-practice-problems/">Python Practice Problems</a>
+  
+</details>
+
 - [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 - [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 - [ ] [SQl + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
-- [x] [Python Practice Problems](https://realpython.com/python-practice-problems/)
 - [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
 
 ## ToRead
+
+<details>
+  <summary>Done</summary>
+</details>
 
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu (Book 1)](https://amzn.to/32MgALv)
 - [x] [Satyayoddha Kalki: Eye of Brahma (Book 2)](https://amzn.to/2HiVBYn)
@@ -31,6 +41,10 @@
 - [ ] [Shiva Trilogy](https://amzn.to/2HFUdis)
 
 ## ToMake
+
+<details>
+  <summary>Done</summary>
+</details>
 
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [ ] (Anime Recommendation System)
