@@ -11,8 +11,8 @@
 <details>
   <summary>Done</summary>
   
-  <a href="https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/">Scalable Web Applications with Python</a></br>
-  <a href="https://www.youracclaim.com/badges/123869a6-fc14-4c9c-b4f6-3693c03aa3af/linked_in_profile">MTA: Introduction to Programming Using Python - Certified 2019</a></br>
+  <a href="https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/">Scalable Web Applications with Python</a><br/>
+  <a href="https://www.youracclaim.com/badges/123869a6-fc14-4c9c-b4f6-3693c03aa3af/linked_in_profile">MTA: Introduction to Programming Using Python - Certified 2019</a><br/>
   <a href="https://realpython.com/python-practice-problems/">Python Practice Problems</a>
   
 </details>
@@ -28,10 +28,12 @@
 
 <details>
   <summary>Done</summary>
+  
+  <a href="https://amzn.to/32MgALv">Dharmayoddha Kalki: Avatar of Vishnu</a><br/>
+  <a href="https://amzn.to/2HiVBYn">Satyayoddha Kalki: Eye of Brahma</a><br/>
+  
 </details>
 
-- [x] [Dharmayoddha Kalki: Avatar of Vishnu (Book 1)](https://amzn.to/32MgALv)
-- [x] [Satyayoddha Kalki: Eye of Brahma (Book 2)](https://amzn.to/2HiVBYn)
 - [ ] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
 - [ ] [World’s Greatest Books For Personal Growth & Wealth](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
