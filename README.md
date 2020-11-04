@@ -29,7 +29,7 @@
 - [ ] [The Oath of the Vayuputras](https://amzn.to/37LHqGs)
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
 - [x] [Satyayoddha Kalki: Eye of Brahma](https://amzn.to/2HiVBYn)
-- [x] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
+- [x] [Mahayoddha Kalki: Sword of Shiva](https://amzn.to/2Hhg93w)
 
 ## ToMake
 
