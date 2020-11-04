@@ -19,7 +19,7 @@
 
 ## ToRead
 
-- [ ] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
+- [x] [Mahayoddha Kalki: Sword of Shiva (Book 3)](https://amzn.to/2Hhg93w)
 - [ ] [World’s Greatest Books For Personal Growth & Wealth](https://amzn.to/2RI5eBP)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
