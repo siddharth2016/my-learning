@@ -6,6 +6,18 @@
 
 *It should not be taken as me having expertise in a particular programming language, it just shows the percentage of code done in given language !*
 
+
+## ToMake
+
+- [ ] (Something Related to Anime)
+- [ ] (Something Related to Manga)
+- [ ] (Something Related to Challenge)
+- [ ] (Something Related to Reading)
+- [x] [PongPong](https://github.com/Siddharth2016/PongPong)
+- [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
+- [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
+- [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
+
 ## ToPractice
 
 - [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
@@ -31,14 +43,3 @@
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
 - [x] [Satyayoddha Kalki: Eye of Brahma](https://amzn.to/2HiVBYn)
 - [x] [Mahayoddha Kalki: Sword of Shiva](https://amzn.to/2Hhg93w)
-
-## ToMake
-
-- [ ] (Something Related to Anime)
-- [ ] (Something Related to Manga)
-- [ ] (Something Related to Challenge)
-- [ ] (Something Related to Reading)
-- [x] [PongPong](https://github.com/Siddharth2016/PongPong)
-- [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
-- [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
-- [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
