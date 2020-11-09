@@ -20,6 +20,7 @@
 ## ToRead
 
 - [ ] [World’s Greatest Books For Personal Growth & Wealth](https://amzn.to/2RI5eBP)
+- [ ] [Rogue Lawyer](https://amzn.to/3lh0xw6)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
 - [ ] [Machine Learning Engineering](https://amzn.to/30p3PVr)
