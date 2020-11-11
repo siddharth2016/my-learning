@@ -12,6 +12,7 @@
 - [ ] (Something Related to Anime)
 - [ ] (Something Related to Manga)
 - [ ] (Something Related to Challenge)
+- [ ] (Something Related to App)
 - [x] [Blog](https://blog.codekaro.info/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
