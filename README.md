@@ -32,7 +32,6 @@
 
 ## ToRead
 
-- [ ] [World’s Greatest Books For Personal Growth & Wealth](https://amzn.to/2RI5eBP)
 - [ ] [Rogue Lawyer](https://amzn.to/3lh0xw6)
 - [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
@@ -44,3 +43,4 @@
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
 - [x] [Satyayoddha Kalki: Eye of Brahma](https://amzn.to/2HiVBYn)
 - [x] [Mahayoddha Kalki: Sword of Shiva](https://amzn.to/2Hhg93w)
+- [x] [World’s Greatest Books For Personal Growth & Wealth](https://amzn.to/2RI5eBP)
