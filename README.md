@@ -1,9 +1,5 @@
 # My Learning
 
-<!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/siddharth2016/my-learning/master/.github/images/result.png height=180px width=180px align=right alt=test />
-<!--END_SECTION:update_image-->
-
 ## LanguageStats
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
