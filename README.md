@@ -1,6 +1,7 @@
 # My Learning
 
 <!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/siddharth2016/my-learning/master/.github/images/result.png height=180px width=180px align=right alt=test />
 <!--END_SECTION:update_image-->
 
 ## LanguageStats
