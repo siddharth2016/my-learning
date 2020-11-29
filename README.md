@@ -1,5 +1,8 @@
 # My Learning
 
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+
 ## LanguageStats
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=vision-friendly-dark" />
