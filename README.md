@@ -35,13 +35,15 @@
 ## ToRead
 
 - [ ] [Rogue Lawyer](https://amzn.to/3lh0xw6)
-- [ ] [Investonomy: The Stock Market Guide That Makes You Rich](https://amzn.to/2ZOrAWP)
+- [ ] [Investonomy: The Stock Market Guide](https://amzn.to/2ZOrAWP)
 - [ ] [Approaching (Almost) Any Machine Learning Problem](https://amzn.to/3hLKVOw)
 - [ ] [Machine Learning Engineering](https://amzn.to/30p3PVr)
 - [ ] [The Hundred-Page Machine Learning Book](https://amzn.to/3n1o2ul)
 - [ ] [The Immortals of Meluha](https://amzn.to/3kD8StE)
 - [ ] [The Secret Of The Nagas](https://amzn.to/3mq67fu)
 - [ ] [The Oath of the Vayuputras](https://amzn.to/37LHqGs)
+- [ ] [Grit: The Power of Passion and Perseverance](https://amzn.to/3h1nvWG)
+- [ ] [Ikigai: The Japanese secret to a long and happy life](https://amzn.to/34vtKwH)
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
 - [x] [Satyayoddha Kalki: Eye of Brahma](https://amzn.to/2HiVBYn)
 - [x] [Mahayoddha Kalki: Sword of Shiva](https://amzn.to/2Hhg93w)
