@@ -1,6 +1,6 @@
 # My Learning
 
-## LanguageStats
+## Language Stats
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=graywhite&hide=jupyter%20notebook"/>
 
