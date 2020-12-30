@@ -7,7 +7,7 @@
 *It should not be taken as me having expertise in a particular programming language, it just shows the percentage of code done in given language !*
 
 
-## ToMake
+## To Make
 
 - [ ] (Something Related to Anime)
 - [ ] (Something Related to Manga)
@@ -20,7 +20,7 @@
 - [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
 - [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-## ToPractice
+## To Practice
 
 - [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 - [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
@@ -33,7 +33,7 @@
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
 - [x] [Python Practice Problems](https://realpython.com/python-practice-problems/)
 
-## ToRead
+## To Read
 
 - [ ] [Rogue Lawyer](https://amzn.to/3lh0xw6)
 - [ ] [Investonomy: The Stock Market Guide](https://amzn.to/2ZOrAWP)
