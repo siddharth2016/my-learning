@@ -4,7 +4,7 @@
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth2016&layout=compact&langs_count=16&theme=graywhite&hide=jupyter%20notebook"/>
 
-*It should not be taken as me having expertise in a particular programming language, it just shows the percentage of code done in given language !*
+*It should not be taken as me having expertise in a particular programming language, it just shows the percentage of code done in given language.*
 
 
 ## To Make
