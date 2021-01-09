@@ -12,7 +12,7 @@
 - [ ] (Something Related to Anime)
 - [ ] (Something Related to Manga)
 - [ ] (Something Related to Challenge)
-- [ ] (Something Related to App)
+- [ ] (Something Related to Writing App)
 - [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
 - [x] [Blog](https://blog.codekaro.info/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
