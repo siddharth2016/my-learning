@@ -49,6 +49,7 @@
 - [ ] [The Oath of the Vayuputras](https://amzn.to/37LHqGs)
 - [ ] [Grit](https://amzn.to/3h1nvWG)
 - [ ] [Ikigai](https://amzn.to/34vtKwH)
+- [ ] [The Power of Your Subconscious Mind](https://amzn.to/3oQUrnU)
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
 - [x] [Satyayoddha Kalki: Eye of Brahma](https://amzn.to/2HiVBYn)
 - [x] [Mahayoddha Kalki: Sword of Shiva](https://amzn.to/2Hhg93w)
