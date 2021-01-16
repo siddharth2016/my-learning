@@ -16,7 +16,7 @@
 - [ ] (Something Related to Budget A)
 - [ ] (Something Related to WakaTime WA)
 - [ ] (Something Related to OCR)
-- [ ] (Something Related to REA)
+- [ ] (Something Related to REMEA)
 - [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
 - [x] [Blog](https://blog.codekaro.info/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
