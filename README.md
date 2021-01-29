@@ -34,6 +34,7 @@
 - [ ] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [ ] [Advanced Scala and Functional Programming](https://www.udemy.com/course/advanced-scala/)
 - [ ] [Akka Essentials](https://www.udemy.com/course/akka-essentials/)
+- [ ] [Akka HTTP](https://www.udemy.com/course/akka-http/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 - [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
