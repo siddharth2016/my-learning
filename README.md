@@ -18,6 +18,7 @@
 - [ ] (Something Related to OCR)
 - [ ] (Something Related to REMEA)
 - [ ] (Something Related to PyProjs)
+- [x] [PyCV](https://github.com/siddharth2016/PyCV)
 - [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
 - [x] [Blog](https://blog.codekaro.info/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
