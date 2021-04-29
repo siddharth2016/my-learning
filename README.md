@@ -14,6 +14,7 @@
 - [ ] (Something Related to WakaTime WA)
 - [ ] (Something Related to OCR)
 - [ ] (Something Related to REMEA)
+- [x] [snake-game](https://github.com/siddharth2016/snake-game)
 - [x] [awesome-python-repos](https://github.com/siddharth2016/awesome-python-repos)
 - [x] [PyCV](https://github.com/siddharth2016/PyCV)
 - [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
@@ -35,6 +36,7 @@
 - [ ] [Akka HTTP](https://www.udemy.com/course/akka-http/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 - [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
+- [ ] [Snake Game Tutorial - PyGame](https://www.youtube.com/watch?v=QFvqStqPCRU)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
 - [x] [Python Practice Problems](https://realpython.com/python-practice-problems/)
 
