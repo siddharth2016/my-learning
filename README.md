@@ -24,7 +24,7 @@
 - [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
 - [x] [hello-open-source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
 
-## To Practice
+## To Learn
 
 - [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 - [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
