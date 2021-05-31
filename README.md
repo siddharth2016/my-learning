@@ -30,7 +30,6 @@
 - [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 - [ ] [SQL + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
-- [ ] [Advanced Scala and Functional Programming](https://www.udemy.com/course/advanced-scala/)
 - [ ] [Akka Essentials](https://www.udemy.com/course/akka-essentials/)
 - [ ] [Akka HTTP](https://www.udemy.com/course/akka-http/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
