@@ -28,8 +28,6 @@
 
 - [ ] [SQL + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [ ] [Akka Essentials](https://www.udemy.com/course/akka-essentials/)
-- [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
-- [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
 - [ ] [Snake Game Tutorial - PyGame](https://www.youtube.com/watch?v=QFvqStqPCRU)
 - [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
