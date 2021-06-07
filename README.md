@@ -26,12 +26,8 @@
 
 ## To Learn
 
-- [ ] [Machine Learning and Data Science](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
-- [ ] [Web Development](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 - [ ] [SQL + Database Development](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
-- [ ] [JavaScript Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 - [ ] [Akka Essentials](https://www.udemy.com/course/akka-essentials/)
-- [ ] [Akka HTTP](https://www.udemy.com/course/akka-http/)
 - [ ] [Python Packaging](https://python-packaging.readthedocs.io/en/latest/minimal.html)
 - [ ] [Git Internals](https://www.leshenko.net/p/ugit/)
 - [ ] [Snake Game Tutorial - PyGame](https://www.youtube.com/watch?v=QFvqStqPCRU)
