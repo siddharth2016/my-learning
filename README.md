@@ -29,7 +29,6 @@
 - [ ] [Akka Essentials](https://www.udemy.com/course/akka-essentials/)
 - [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
-- [x] [Python Practice Problems](https://realpython.com/python-practice-problems/)
 
 ## To Read
 
