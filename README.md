@@ -32,11 +32,11 @@
 
 ## To Read
 
-- [ ] [The Secret Of The Nagas](https://amzn.to/3mq67fu)
 - [ ] [The Oath of the Vayuputras](https://amzn.to/37LHqGs)
 - [ ] [Grit](https://amzn.to/3h1nvWG)
 - [ ] [Ikigai](https://amzn.to/34vtKwH)
 - [ ] [The Power of Your Subconscious Mind](https://amzn.to/3oQUrnU)
+- [x] [The Secret Of The Nagas](https://amzn.to/3mq67fu)
 - [x] [The Immortals of Meluha](https://amzn.to/3kD8StE)
 - [x] [Rogue Lawyer](https://amzn.to/3lh0xw6)
 - [x] [Dharmayoddha Kalki: Avatar of Vishnu](https://amzn.to/32MgALv)
