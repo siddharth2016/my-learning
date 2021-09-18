@@ -36,7 +36,7 @@
 - [ ] [Grit](https://amzn.to/3h1nvWG)
 - [ ] [Ikigai](https://amzn.to/34vtKwH)
 - [ ] [The Power of Your Subconscious Mind](https://amzn.to/3oQUrnU)
-- [ ] [I Will Teach You To Be Rich]()
+- [x] [I Will Teach You To Be Rich]()
 - [x] [The Secret Of The Nagas](https://amzn.to/3mq67fu)
 - [x] [The Immortals of Meluha](https://amzn.to/3kD8StE)
 - [x] [Rogue Lawyer](https://amzn.to/3lh0xw6)
