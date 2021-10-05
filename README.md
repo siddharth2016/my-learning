@@ -6,14 +6,6 @@
 
 ## To Make
 
-- [ ] (Something Related to Anime)
-- [ ] (Something Related to Manga)
-- [ ] (Something Related to Challenge)
-- [ ] (Something Related to Writing A)
-- [ ] (Something Related to Budget A)
-- [ ] (Something Related to WakaTime WA)
-- [ ] (Something Related to OCR)
-- [ ] (Something Related to REMEA)
 - [x] [snake-game](https://github.com/siddharth2016/snake-game)
 - [x] [awesome-python-repos](https://github.com/siddharth2016/awesome-python-repos)
 - [x] [PyCV](https://github.com/siddharth2016/PyCV)
@@ -26,6 +18,5 @@
 
 ## To Learn
 
-- [ ] [Akka Essentials](https://www.udemy.com/course/akka-essentials/)
 - [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
