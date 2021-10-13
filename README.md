@@ -6,7 +6,6 @@
 
 ## To Make
 
-- [x] [snake-game](https://github.com/siddharth2016/snake-game)
 - [x] [awesome-python-repos](https://github.com/siddharth2016/awesome-python-repos)
 - [x] [PyCV](https://github.com/siddharth2016/PyCV)
 - [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
