@@ -17,5 +17,5 @@
 
 ## To Learn
 
-- [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
+- [] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
