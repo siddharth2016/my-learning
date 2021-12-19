@@ -17,6 +17,6 @@
 
 ## To Learn
 
-- [ ] [SQL Database Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
+- [] [SQL Database Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
 - [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
