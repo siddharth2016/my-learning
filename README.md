@@ -9,7 +9,7 @@
 - [x] [awesome-python-repos](https://github.com/siddharth2016/awesome-python-repos)
 - [x] [PyCV](https://github.com/siddharth2016/PyCV)
 - [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
-- [x] [Blog](https://blog.codekaro.info/)
+- [x] [Blog](https://chandraji.dev/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
 - [x] [update-readme-image](https://github.com/siddharth2016/update-readme-image)
@@ -18,5 +18,6 @@
 ## To Learn
 
 - [ ] [SQL Database Bootcamp](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
+- [ ] [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 - [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
