@@ -21,6 +21,5 @@
 - [ ] [RESTful Web Services](https://www.udemy.com/course/spring-web-services-tutorial/)
 - [ ] [Spring Boot in 100 Steps](https://www.udemy.com/course/spring-boot-tutorial-for-beginners/)
 - [ ] [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-- [ ] [Django 3](https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/)
 - [x] [Scala & Functional Programming for Beginners](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 - [x] [Scalable Web Applications with Python](https://www.udemy.com/course/flask-is-fun-and-easy-from-basics-to-building-scalable-apps/)
