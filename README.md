@@ -7,7 +7,6 @@
 ## To Make
 
 - [x] [PyCV](https://github.com/siddharth2016/PyCV)
-- [x] [hashpdf](https://github.com/siddharth2016/hashpdf)
 - [x] [Blog](https://chandraji.dev/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
 - [x] [quote-readme](https://github.com/siddharth2016/quote-readme)
