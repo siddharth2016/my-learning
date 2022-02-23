@@ -6,6 +6,7 @@
 
 ## To Make
 
+- [x] [awesome-python-repos](https://github.com/siddharth2016/awesome-python-repos)
 - [x] [PyCV](https://github.com/siddharth2016/PyCV)
 - [x] [Blog](https://chandraji.dev/)
 - [x] [PongPong](https://github.com/Siddharth2016/PongPong)
